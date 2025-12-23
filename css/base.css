@@ -1,0 +1,12 @@
+:root{
+  --c1:#a855f7;
+  --c2:#22d3ee;
+  --c3:#fb7185;
+  --c4:#fcd34d;
+}
+body{
+  margin:0;
+  background:#000;
+  color:#fff;
+  font-family:Montserrat,sans-serif;
+}
